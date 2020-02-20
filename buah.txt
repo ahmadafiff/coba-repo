@@ -15,7 +15,6 @@ cabai
 bayam
 kangkung
 buncis
-kacang panjang
 
 
 KACANG KACANGAN
@@ -24,3 +23,14 @@ kacang merah
 kacang hijau
 kacang panjang
 kacang goreng
+kacang almond
+
+
+MINUMAN
+
+Air putih
+kopi
+teh
+ekstra jos
+susu
+jus BUAH
