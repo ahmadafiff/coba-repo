@@ -1,3 +1,5 @@
+
+
 ipp://192.168.52.10:631/printers/EpsonL360
 
-
+printer ini sudah ter share dengan ip 192.168.52.10
