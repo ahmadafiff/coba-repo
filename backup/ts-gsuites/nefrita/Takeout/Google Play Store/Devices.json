@@ -1,0 +1,22 @@
+[{
+  "device": {
+    "mostRecentData": {
+      "carrierName": "Telkomsel",
+      "playStoreClientVersion": 81891100,
+      "manufacturer": "samsung",
+      "modelName": "SM-G610F",
+      "deviceName": "on7xelte",
+      "productName": "on7xeltedd",
+      "retailBrand": "samsung",
+      "totalMemoryBytes": "2951766016",
+      "nativePlatform": ["armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "ID",
+      "userLocale": "in_ID",
+      "buildFingerprint": "samsung/on7xeltedd/on7xelte:8.1.0/M1AJQ/G610FDXU1CSA2:user/release-keys",
+      "androidSdkVersion": "27"
+    },
+    "deviceRegistrationTime": "2017-07-18T17:40:27.375Z",
+    "userAddedOnDeviceTime": "2020-02-04T06:10:20.479Z",
+    "lastTimeDeviceActive": "2020-02-22T00:11:47.970943Z"
+  }
+}]

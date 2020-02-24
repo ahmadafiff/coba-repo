@@ -1,0 +1,19 @@
+{
+  "albumData": {
+    "title": "Profile Photos",
+    "description": "Album for profile photos",
+    "access": "domain_public",
+    "location": "",
+    "date": {
+      "timestamp": "1580173437",
+      "formatted": "Jan 28, 2020, 1:03:57 AM UTC"
+    },
+    "geoData": {
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "altitude": 0.0,
+      "latitudeSpan": 0.0,
+      "longitudeSpan": 0.0
+    }
+  }
+}
