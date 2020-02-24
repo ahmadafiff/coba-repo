@@ -12,7 +12,7 @@ A very simple module just to make Greenify work as a rom-integrated (privileged)
 
 * Note: You won't get any xposed-side features, since magisk is NOT xposed!
 
-## Requirements: 
+## Requirements:
 - Android 5.0 - 8.1.0
 - Magisk v15.3+
 
