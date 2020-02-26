@@ -34,6 +34,8 @@ jam 15.16 tanggal 21 feb
 
 ----------------------------------
 
-hari kamis tanggal 26
+hari rabu tanggal 26
 
-edit selanjutnya jam 10:04 hari kamis
+edit selanjutnya jam 10:04 hari rabu
+
+edit selanjutnya jam 12:15 hari rabu
