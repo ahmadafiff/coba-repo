@@ -1,9 +1,8 @@
 
 
-HALO SELAMAT PAGI GITHUB!!
 
 
-git update jam 16.32 feb 24
-
-
+H    H  AAAAAAA
+HHHHHH  A     A
+H    H  A     A
 -------------
