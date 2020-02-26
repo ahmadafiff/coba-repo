@@ -1,55 +1,5 @@
-MAKANAN MANIS
+Daftar buah-buahan
 
-donat
-onde onde
-kue
-tart
-permen
-
-
-FASTFOOD
-
-burger
-fc
-soda
-mie
-kentang goreng
-
-BUAH BUAHAN
-
-buah naga
 nanas
-pisang
-jambu
-kelengkeng
 apel
-
-
-SAYURAN
-
-sawi
-cabai
-bayam
-kangkung
-buncis
-
-
-KACANG KACANGAN
-
-kacang merah
-kacang hijau
-kacang panjang
-kacang goreng
-kacang almond
-
-
-MINUMAN
-
-Air putih
-kopi
-teh
-ekstra jos
-susu
-jus BUAH
-
-jam 15.16 tanggal 21 feb
+blue bery

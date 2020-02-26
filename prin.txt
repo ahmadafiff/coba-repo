@@ -7,3 +7,5 @@ printer ini sudah ter share dengan ip 192.168.52.10
 ok
 
 jam 15.16 tanggal 21 feb
+
+jam 10.04 tanggal 26 feb
