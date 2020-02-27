@@ -1,4 +1,6 @@
-a = float(input("Masukkan panjang alas segitiga: "))
-t = float(input("Masukkan tinggi segitiga: "))
-luas = 0.5*a*t
-print("Luas segitiga adalah : "+ str(luas))
+print("----------------------")
+umur = float(input("Masukkan tahun Anda lahir: "))
+tahun = float(input("Masukkan tahun sekarang: "))
+hasil = tahun-umur
+print("Umur Anda sekarang adalah : "+ str(hasil))
+print("----------------------")
