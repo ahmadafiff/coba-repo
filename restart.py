@@ -1,3 +1,3 @@
 import os;
-os.system("reboot");
+os.system("ping 8.8.8.8 -t 10");
 
