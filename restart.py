@@ -1,3 +1,3 @@
 import os;
-os.system("ping 8.8.8.8 -t 10");
+os.system("ssh afif@192.168.52.10");
 
